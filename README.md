@@ -1,2 +1,0 @@
-# bera-bot
-a bot
